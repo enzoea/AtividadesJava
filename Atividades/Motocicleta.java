@@ -1,3 +1,5 @@
+// Codigo utilizado para entendermos conceito de Classe, Objetos e Métodos 
+
 class Moto {
     private String placa;
     private boolean licenciada;
